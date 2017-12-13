@@ -1,0 +1,4 @@
+main.是程序的主函数
+mainCV是交叉验证确定最优的c,g参数
+trainFeature2.m是提取训练集特征
+testFeature2.m是提取测试集特征
